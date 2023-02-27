@@ -1,5 +1,11 @@
 [
   { 
+    "repository"   : "proprietary_vendor_firmware",
+    "target_path"  : "vendor/firmware",
+    "branch"       : "TDA",
+    "remote"       : "divalab"
+  },
+  { 
     "repository"   : "Miku_device_xiaomi_mona",
     "target_path"  : "device/xiaomi/mona",
     "branch"       : "TDA",

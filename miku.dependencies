@@ -1,0 +1,8 @@
+[
+  { 
+    "repository"   : "Miku_device_xiaomi_mona",
+    "target_path"  : "device/xiaomi/mona",
+    "branch"       : "TDA",
+    "remote"       : "diva-ssh"
+  }
+]
